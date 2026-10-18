@@ -1,0 +1,2 @@
+# cfgobm
+Daily digest notes
